@@ -1,0 +1,7 @@
+patrol_controller:
+  ros__parameters:
+    side_length: 1.0
+    linear_speed: 0.10
+    angular_speed: 0.45
+    position_tolerance: 0.08
+    heading_tolerance_degrees: 5.0
